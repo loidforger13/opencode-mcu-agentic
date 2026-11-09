@@ -1,5 +1,5 @@
 ---
-description: Defender — implementation and unit tests (slot 2 fallback: deepseek v4.1 flash)
+description: Defender — implementation and unit tests (slot 1: deepseek v4.1 flash)
 mode: subagent
 model: deepseek/deepseek-flash#high
 color: "#32cd32"

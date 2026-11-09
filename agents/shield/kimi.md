@@ -1,5 +1,5 @@
 ---
-description: Shield — QA review and quality gate (slot 1: kimi k3 high)
+description: Shield — QA review and quality gate (slot 2 fallback: kimi k3 high)
 mode: subagent
 model: kimi-code-plan-global/kimi-for-coding#high
 color: "#dc143c"

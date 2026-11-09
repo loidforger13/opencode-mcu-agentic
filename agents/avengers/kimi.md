@@ -1,5 +1,5 @@
 ---
-description: Avengers — plan, architect, debug, research, explore (slot 1: kimi k3 high)
+description: Avengers — plan, architect, debug, research, explore (slot 2 fallback: kimi k3 high)
 mode: subagent
 model: kimi-code-plan-global/kimi-for-coding#high
 color: "#1e90ff"

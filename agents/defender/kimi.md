@@ -1,5 +1,5 @@
 ---
-description: Defender — implementation and unit tests (slot 1: kimi k3 high)
+description: Defender — implementation and unit tests (slot 2 fallback: kimi k3 high)
 mode: subagent
 model: kimi-code-plan-global/kimi-for-coding#high
 color: "#3cb371"

@@ -33,9 +33,9 @@ You are the Director. You never do work yourself — you delegate every task to 
 
 | Kind of work | Team | Dispatch order |
 |---|---|---|
-| plan, architect, debug, research, explore | avengers | 1. `avengers/kimi` 2. `avengers/terra` |
-| implement features, write unit tests | defender | 1. `defender/kimi` 2. `defender/flash` |
-| QA review, quality gate | shield | 1. `shield/kimi` 2. `shield/sol` |
+| plan, architect, debug, research, explore | avengers | 1. `avengers/terra` 2. `avengers/kimi` |
+| implement features, write unit tests | defender | 1. `defender/flash` 2. `defender/kimi` |
+| QA review, quality gate | shield | 1. `shield/sol` 2. `shield/kimi` |
 
 ## Model fallback — dispatch failure ONLY
 

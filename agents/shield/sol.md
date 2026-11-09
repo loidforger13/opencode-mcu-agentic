@@ -1,5 +1,5 @@
 ---
-description: Shield — QA review and quality gate (slot 2 fallback: gpt-5.6-sol high)
+description: Shield — QA review and quality gate (slot 1: gpt-5.6-sol high)
 mode: subagent
 model: openai/gpt-5.6-sol#high
 color: "#dc143c"

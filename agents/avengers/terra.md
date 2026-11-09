@@ -1,5 +1,5 @@
 ---
-description: Avengers — plan, architect, debug, research, explore (slot 2 fallback: gpt-5.6-terra xhigh)
+description: Avengers — plan, architect, debug, research, explore (slot 1: gpt-5.6-terra xhigh)
 mode: subagent
 model: openai/gpt-5.6-terra#xhigh
 color: "#1e90ff"
